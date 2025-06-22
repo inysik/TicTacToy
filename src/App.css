@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1{
+  font-family: sans-serif;
+      display: inline-block;
+    background: rgb(0, 179, 255);
+    border: 7px solid #00a0cf;
+    padding: 10px;
+    width: 100px;
+    border-radius: 4px;
+
+}

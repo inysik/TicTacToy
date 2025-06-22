@@ -1,0 +1,8 @@
+body{
+  background-color: #323D63;
+  color: aliceblue;
+  margin: 50px;
+  background-image: url(./images/img-bg.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
